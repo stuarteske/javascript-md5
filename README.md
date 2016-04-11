@@ -1,6 +1,9 @@
 # javascript-md5
 Complete encapsulated Javascript MD5 library.
 
+## Dependances
+None.  
+
 ## Usage
 Include the script in the footer of the body HTML.  
 ```<script src="/js/libs/md5/md5.js"></script>``` 
